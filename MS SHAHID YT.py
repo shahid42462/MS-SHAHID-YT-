@@ -89,7 +89,7 @@ logo =          """    \033[1;37m
 \033[1;37m Owner   :            MS SHAHID YT 
 \033[1;37m Facebook:            Gaming Shahid YT
 \033[1;37m Github  :            Shahid42462
-\033[1;37m Version :            1.0
+\033[1;37m Version :            19.8
 \033[1;37m------------------------------------------------ """
 def clear():
     os.system("clear")
